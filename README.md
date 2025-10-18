@@ -40,7 +40,6 @@ This simulation is an excellent way to understand **Arduino sensor integration, 
 ## Circuit Preview
 Below is the visual layout of the circuit used in the simulation.  
 ![Circuit Screenshot](circuit_screenshot.png)  
-*(Upload your screenshot to the repository with this exact filename)*
 
 ---
 
